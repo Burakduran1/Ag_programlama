@@ -2,7 +2,7 @@
 
 
 
-Bu proje, Evrişimli Sinir Ağları (CNN) kullanarak bitki yapraklarındaki hastalıkları tespit etmek için geliştirilmiş graf tabanlı bir web tabanlı uygulamayı içermektedir.
+Bu proje, Evrişimli Sinir Ağları (CNN) kullanarak bitki yapraklarındaki hastalıkları tespit etmek için geliştirilmiş graf tabanlı bir web  uygulamayı içermektedir.
 
 
 
