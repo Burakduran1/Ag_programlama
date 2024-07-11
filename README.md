@@ -22,7 +22,7 @@ Metot
 Bu çalışma, bitki hastalıklarının tespiti için evrişimli sinir ağları (CNN) kullanılarak
 gerçekleştirilmiştir. Aşağıda çalışmanın temel adımları açıklanmaktadır.
 
-![Classes Distribution](https://github.com/Burakduran1/Ag_programlama/blob/main/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-11%20125302.png)
+![Classes Distribution](https://github.com/Burakduran1/Ag_programlama/blob/main/Pictures%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-11%20125302.png)
 
 
 
