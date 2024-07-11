@@ -74,7 +74,9 @@ geri bildirimlerine dayalı olarak geliştirmek ve benzer projeleri entegre eder
 vurgulayarak gelecekteki araştırmalara önemli bir katkı sağlıyor. Bu bağlamda, proje tarım sektöründe yapay
 zeka teknolojilerinin etkinliğini ve uygulanabilirliğini gözler önüne sermektedir.
 
-![Classes Distribution](https://github.com/Burakduran1/Ag_programlama/blob/main/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-11%20125421.png)
+![Classes Distribution](https://github.com/Burakduran1/Ag_programlama/blob/main/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-11%20140851.png)
+![Classes Distribution](https://github.com/Burakduran1/Ag_programlama/blob/main/Pictures/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-07-11%20141013.png)
+
 
 
 
