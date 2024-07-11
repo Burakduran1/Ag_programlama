@@ -1,5 +1,7 @@
+ <span style="font-size: 40px;">Bitki Hastalığı Tespit Projesi</span>
 
-Bitki Hastalığı Tespit Projesi
+
+
 Bu proje, Evrişimli Sinir Ağları (CNN) kullanarak bitki yapraklarındaki hastalıkları tespit etmek için geliştirilmiş graf tabanlı bir web tabanlı uygulamayı içermektedir.
 
 
